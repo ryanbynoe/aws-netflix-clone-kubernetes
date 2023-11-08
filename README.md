@@ -34,6 +34,7 @@ This GitHub project showcases the seamless deployment of a Netflix Clone applica
 
 
 
+
 ### **Phase 1: Initial Setup and Deployment**
 
 **Step 1: Launch EC2 (Ubuntu 22.04):**
