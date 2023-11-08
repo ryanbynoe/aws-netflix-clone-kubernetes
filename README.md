@@ -14,7 +14,25 @@
   <p align="center">Home Page</p>
 </div>
 
-# Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+## Deploy Netflix Clone on Cloud using Jenkins - DevSecOps Project!
+
+**Description:**
+This GitHub project showcases the seamless deployment of a Netflix Clone application on the cloud using Jenkins and a powerful stack of tools. We leverage Jenkins for continuous integration and continuous deployment (CI/CD) while harnessing the capabilities of Docker, Kubernetes, EC2, SonarQube, Prometheus, Grafana, Node Exporter, ArgoCD, EKS, and IAM to build a robust, scalable, and highly available infrastructure.
+
+**Key Tools Utilized:**
+- **Jenkins:** Automation and CI/CD pipeline orchestration.
+- **Docker:** Containerization for efficient deployment.
+- **Kubernetes:** Container orchestration and scaling.
+- **EC2:** Elastic Compute Cloud for scalable virtual servers.
+- **SonarQube:** Code quality and security analysis.
+- **Prometheus and Grafana:** Monitoring and observability.
+- **Node Exporter:** Collecting system metrics.
+- **ArgoCD:** GitOps-based application delivery.
+- **EKS:** Elastic Kubernetes Service for Kubernetes management.
+- **IAM:** Identity and Access Management for security.
+
+
+
 
 ### **Phase 1: Initial Setup and Deployment**
 
