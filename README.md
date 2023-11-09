@@ -31,6 +31,15 @@ This GitHub project showcases the seamless deployment of a Netflix Clone applica
 - **EKS:** Elastic Kubernetes Service for Kubernetes management.
 - **IAM:** Identity and Access Management for security.
 
+## Jenkins CI/CD Pipeline ##
+
+- It took 15 builds builds troubleshooting before receiving a successful deployment.
+
+- Correct login for Docker allowed for a successful build.
+
+![alt text](public/pipeline15.jpg)
+
+
 
 
 ### **Phase 1: Initial Setup and Deployment**
