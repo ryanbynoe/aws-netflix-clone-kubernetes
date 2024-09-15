@@ -759,12 +759,3 @@ After installing ArgoCD, you need to set up your GitHub repository as a source f
 
 
 
-
-
-## Resources/Credits ##
-
-Mr Cloudbook - https://mrcloudbook.hashnode.dev/devsecops-netflix-clone-ci-cd-with-monitoring-email
-
-Nasiullha Chaudhari - https://github.com/N4si/DevSecOps-Project
-
-
